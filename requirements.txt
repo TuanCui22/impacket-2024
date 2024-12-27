@@ -1,5 +1,7 @@
+setuptools
 future
 six
+pyasn1_modules
 pyasn1>=0.2.3
 pycryptodomex
 pyOpenSSL>=0.16.2
